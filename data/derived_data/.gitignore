@@ -1,0 +1,6 @@
+genoprobs.rds
+kinship.rds
+expr.rds
+annots.rds
+covar.rds
+lod_peaks.rds
