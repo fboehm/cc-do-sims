@@ -10,3 +10,9 @@ CC and DO mice. In addition to comparing power to detect QTL in the two
 populations (CC and DO), we may also consider mapping strategies in
 which we first use CC mice and then map (over small regions) in DO mice.
 Other variations on this approach may be pursued.
+
+## Other questions
+
+1.  Might we use brian’s qtl2pattern package to enhance power once we
+    know the QTL effects?? How to infer QTL allele effects? When to
+    declare 2 founder alleles as really being one allele?
